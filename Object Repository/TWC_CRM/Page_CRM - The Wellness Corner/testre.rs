@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>testre</name>
+   <tag></tag>
+   <elementGuidId>fb668815-c65d-4165-834c-d06cae1d0e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='healthPackage']/div/div[15]/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-selection-overflow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df9cb73b-8bba-404d-b79a-c7b14da480e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-overflow</value>
+      <webElementGuid>7bde635a-9fc6-45e0-840f-4a4ad422e019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>eff3ca1d-d4ca-4c13-a061-69b6ee33f031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;healthPackage&quot;)/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-sm-12&quot;]/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-focused ant-select-multiple ant-select-allow-clear ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/div[@class=&quot;ant-select-selection-overflow&quot;]</value>
+      <webElementGuid>dcf8a9ec-f9db-476f-b8ab-ad1643523444</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='healthPackage']/div/div[15]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>cc69ec5b-018e-46dc-8e3a-7e1f56acf685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Slots'])[1]/following::div[6]</value>
+      <webElementGuid>9018f240-b65b-42f2-8291-05dadb6ebd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onsite Network'])[1]/following::div[11]</value>
+      <webElementGuid>09fcf466-639f-4100-857c-bb43edb8f414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter time slot'])[1]/preceding::div[3]</value>
+      <webElementGuid>b4882965-d22a-44ec-8668-2965c180f6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press enter to add time slot'])[1]/preceding::div[3]</value>
+      <webElementGuid>f41c42ec-cec7-495b-bf55-362ec8b6a82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>ad59b750-e99c-4558-b90b-a26dcb822324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>c4672bf0-d3d2-4da3-b401-c751abae9aca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

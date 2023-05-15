@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F6961792AFD33AA6E34389E34D1693DE",
+  "keywordClasses": [
+    {
+      "name": "login_Config.config_login",
+      "keywordMethods": [
+        {
+          "name": "userLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign-in to the CRM_ant-input-affix-wrapper ant-input-password ant-input-password-large ant-input-affix-wrapper-lg</name>
+   <tag></tag>
+   <elementGuidId>ee152629-e705-4d31-96b3-e9a112009a61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/form/div[2]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-input-affix-wrapper.ant-input-password.ant-input-password-large.ant-input-affix-wrapper-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d587af58-447c-487c-9912-7c7e4d4e6b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input-affix-wrapper ant-input-password ant-input-password-large ant-input-affix-wrapper-lg</value>
+      <webElementGuid>8b5d9447-b7a0-455a-967a-d8139f9f7d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;loginSection w-100 justify-content-center d-flex&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ant-row justify-content-center&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-12 ant-col-lg-10&quot;]/div[@class=&quot;loginBox py-5 px-4 bg-white&quot;]/form[@class=&quot;ant-form ant-form-horizontal login-form&quot;]/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-password ant-input-password-large ant-input-affix-wrapper-lg&quot;]</value>
+      <webElementGuid>c59f53fa-8c11-4735-a049-64a50adc6651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/form/div[2]/div/div/div/div/span</value>
+      <webElementGuid>4d39d2bd-0a94-4e12-a1f9-81245b9ccd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-in to the CRM'])[1]/following::span[1]</value>
+      <webElementGuid>7a69e856-e12d-421b-aa40-eb81aa8c7312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::span[3]</value>
+      <webElementGuid>d410efa9-45ed-43db-9181-51e045e802e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[4]</value>
+      <webElementGuid>ce074772-7fb0-4bce-b80a-6c283384b92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>aace299d-28ff-4745-9b0c-659fba5c52d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
